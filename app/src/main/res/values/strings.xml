@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ECTSharedPref</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="profileTitle">Perfil Profesional</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_clear">Limpiar Perfil</string>
+
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellidos:</string>
+    <string name="email">Email:</string>
+    <string name="cargo">Cargo:</string>
+    <string name="guardar">Guardar</string>
+    <string name="msg_save">Perfil profesional guardado correctamente</string>
+
+    <string name="preference_file_key">preference_file_key</string>
+    <string name="nombre_key">nombreKey</string>
+    <string name="apellido_key">apellidoKey</string>
+    <string name="email_key">emailKey</string>
+    <string name="cargo_key">cargoKey</string>
+</resources>
